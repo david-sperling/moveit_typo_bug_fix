@@ -1,3 +1,6 @@
+# This REPO is a branch to fix a bug. The bug fix was accepted and this project is now archived.
+# For moveit repository information, please see the official repository.
+
 <img src="https://moveit.ros.org/assets/logo/moveit_logo-black.png" alt="MoveIt Logo" width="200"/>
 
 The [MoveIt Motion Planning Framework for ROS](http://moveit.ros.org). For the ROS 2 repository see [MoveIt 2](https://github.com/ros-planning/moveit2).
